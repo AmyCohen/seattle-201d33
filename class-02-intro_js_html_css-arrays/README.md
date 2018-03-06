@@ -109,13 +109,6 @@ As a result of completing Lecture 2 of Code 201, students will:
 [-top-](#top)
 
 <a id="code"></a>
-## Learning Journal
-
-We will look at the sample learning journal in the class repository and learn about `git init`
-
-[-top-](#top)
-
-<a id="code"></a>
 ## Live code
 
 In our code demo today we'll be doing the following:
