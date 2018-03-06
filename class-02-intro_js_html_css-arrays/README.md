@@ -3,7 +3,7 @@
 <a id="top"></a>
 # Today's Plan: Lecture 2
 
-####Class Roadmap for Today
+#### Class Roadmap for Today
 
 - [Topics from HTML readings](#html) *[15 minutes]*
 - [Topics from CSS readings](#css) *[30 minutes]*
@@ -12,7 +12,7 @@
 - [Learning Journal + `git init`](#lj) *[30 minutes]*
 - [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
 
-####Announcements:
+#### Announcements:
  - Quiz 1 will be published at the end of lab. More about quizzes:
  	- Note that there will be some quiz content from time to time that we may not have covered yet for instance something on the quiz published today that we do not cover until the next class.
  	- Keep in mind that you have unlimited re-takes on the quizzes, and also that the quizzes are designed to be treated like they are open-book. It's more about what you can figure out than what you have memorized.
@@ -105,13 +105,6 @@ As a result of completing Lecture 2 of Code 201, students will:
 - pp.70-73 	Arrays
 - p.74 	Expressions
 - p.75 	Operators (Arithmetic, p.76) (String, p.78)
-
-[-top-](#top)
-
-<a id="code"></a>
-## Learning Journal
-
-We will look at the sample learning journal in the class repository and learn about `git init`
 
 [-top-](#top)
 
