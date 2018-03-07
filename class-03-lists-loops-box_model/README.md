@@ -5,6 +5,8 @@
 
 #### Announcements
 
+[Today's Code Pen](https://codepen.io/agrampa/pen/pLzRYa)
+
 #### Schedule for today
 
 - [Code Review](#codereview) *[30 minutes]*
