@@ -3,9 +3,9 @@
 <a id="top"></a>
 # Today's Plan: Lecture 3
 
-####Announcements
+#### Announcements
 
-####Schedule for today
+#### Schedule for today
 
 - [Code Review](#codereview) *[30 minutes]*
 - [JS Control Flow](#control) *[45 minutes]*
