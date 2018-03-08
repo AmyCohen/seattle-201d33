@@ -52,6 +52,9 @@ Today we'll take 45 minutes to look at some code and go over possible solutions 
 - p.391: CSS frameworks
 
 ##### [learnlayout.com](http://learnlayout.com) will be our practical entry point into layout
+##### [CSS Zen Garden](http://www.csszengarden.com/) allows you to practice CSS styling and see how others have styled the same HTML code.
+##### [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/) has some helpful tips for centering content horizontally and vertically.
+##### [Floats in CSS](https://medium.freecodecamp.org/css-floats-explained-by-riding-an-escalator-57fa55232333) as explained by riding an escalator.
 
 [-top-](#top)
 
