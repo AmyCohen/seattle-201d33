@@ -4,17 +4,16 @@
 # Today's Plan: Lecture 5
 
 - Announcements
-	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take after the last class and right before Project Week.
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
+	- [Book time](https://alliegrampa.youcanbook.me/) for a one-on-one next week, make sure to use the "Jump to Date" button
 
 ### Today's Schedule
-- Announcements [15 minutes]
-- [Instead of code review, a look at the readings and a smattering of topics](#smattering) *[75 minutes]*
-
-**break**
-
-- [Git Branching, including deployment] (#git) *[30 minutes]*
-- [Lab Overview](#lab) *[45 minutes]*
+- Announcements 
+- Code review
+- Various topics by request
+- Git Branching
+- Deployment
+- Code demo for Lab
 
 **Learning Objectives**
 
@@ -65,26 +64,8 @@ As a result of completing Lecture 5 of Code 201, students will:
 
 [-top-](#top)
 
-<a id="smattering"></a>
-## A smattering of topics
-
-- 'use strict'
-- W3 Schools vs. MDN vs Stack Overflow, etc.
-- Linter setups
-- The increment operator
-- Logical operators % short circuiting
-- String methods
-- Array methods
-- Function declarations vs. function assignments
-- CSS Zen Garden
-- HAMs
-
 <a id="git"></a>
 ## Git branching, including deployment
-
-It's time to take a look at branching in Git. We'll start with some slides:
-
-[Slides are here!](slides/5-git-branching.pdf)
 
 We'll also go over the commands and do some practice with Git branches together in our terminals.
 
