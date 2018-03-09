@@ -3,6 +3,8 @@
 <a id="top"></a>
 # Today's Plan: Lecture 5
 
+- [Link to Lab 5](https://github.com/codefellows/201d33-lab-5)
+
 - Announcements
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
 	- [Book time](https://alliegrampa.youcanbook.me/) for a one-on-one next week, make sure to use the "Jump to Date" button
