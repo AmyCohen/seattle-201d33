@@ -1,6 +1,8 @@
 <a id="top"></a>
 # Today's Plan: Lecture 8
 
+- [Link to the Code Pen demo](https://codepen.io/agrampa/pen/EEKgwW?editors=1010)
+
 - Announcements
 - [Code Review](#codereview) *[30 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
