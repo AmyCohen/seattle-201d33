@@ -27,7 +27,7 @@ imgElement.addEventListener('click', randomGoat);
 function randomGoat() {
   // random number generator
   var randomIndex = Math.floor(Math.random() * Goat.allGoats.length);
-  // for loop to iterate over the array and render one goat
+  // use the randomIndex to set the src and alt attributes of the imgElement
   imgElement.src = Goat.allGoats[randomIndex].filepath;
   imgElement.alt = Goat.allGoats[randomIndex].name;
 }
