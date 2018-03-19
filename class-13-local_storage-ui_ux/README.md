@@ -1,12 +1,9 @@
 <a id="top"></a>
 # Today's Plan: Lecture 13
 
-- Announcements
-  - Project Week is getting closer!
-  - Pitches
-- [Code Review](#codereview) *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[90 minutes]*
+- [Code Review](#codereview)
+- [Go over the assigned readings](#readings)
+- [Code demo](#code)
 
 **Learning Objectives**
 
