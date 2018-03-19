@@ -1,11 +1,12 @@
 <a id="top"></a>
 # Today's Plan: Lecture 15
 
-- Announcements?
+*The 301 entrance exam will be available later today and will close Sunday night at 11:59 p.m.*
+
+- Announcements
   - Reminder: weekly surveys will go out to you today
 - [Code Review](#codereview) *[60 minutes]*
 - [jQuery Preview](#jquery) *[30 minutes]*
-- [Project Pitches](#pitches) *[30 minutes]*
 - [Final Project Overview](#project) *[60 minutes]*
 
 **Learning Objectives**
@@ -39,6 +40,8 @@ Preview of the topics in Code 301, and some over-arching 'how the web works' dis
 ##### Structure of 301
 - Daily pair programming
 - Work from starter code for the paired assignments
+- Same textbooks
+- [301 prework](https://github.com/codefellows/code-301-prework)
 
 ##### Concepts in 301
 - MVC
@@ -76,20 +79,19 @@ Short overview of the basics of jQuery and online resources:
 
 ---
 
-<a id="pitches"></a>
-### Project Pitches
-
-(make a list of pitched projects here)
-
-[-top-](#top)
-
----
-
 <a id="project"></a>
 ### Final Project Overview
 
 - Go over the final project description
 - Discuss GitHub workflow in teams
 - GitHub Issues & Projects are the besst way to organize your project work
+
+- Weekend: Plan, plan, plan...
+- Monday morning: Finalize your Project Plan and share it with the instructional staff. We'll give you tips and pointers.
+- Monday afternoon: Start building!
+- Tuesday: Focus on core functionality
+- Wednesday: Strive for MVP
+- Thursday: Stretch goals, code cleanup, rehearse presentations
+- Friday: Presentations
 
 [-top-](#top)
