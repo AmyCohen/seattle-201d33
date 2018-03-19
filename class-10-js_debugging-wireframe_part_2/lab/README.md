@@ -1,5 +1,5 @@
 # Assignment Overview: Lab 10
-### DUE:
+### DUE: Friday, March 16 at 5:00 p.m.
 
 ## Chocolate Pizza: Create a webpage from a provided design comp
 

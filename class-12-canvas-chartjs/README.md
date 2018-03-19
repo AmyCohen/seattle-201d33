@@ -1,13 +1,16 @@
 <a id="top"></a>
 # Today's Plan: Lecture 12
 
-- Announcements
-  - Project Week is getting closer!
-  - First round of project pitches
-  - Second round of project pitches & set project teams
-- [Code Review](#codereview) *[60 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[90 minutes]*
+  - One-on-ones in project week _only as needed_
+  - Resubmits are due this Sunday, March 25, at 11:59 p.m.
+    - No resubmits during project week
+    - Resubmits after project week only with permission
+  - A look ahead to the rest of the week...
+    - Thursday - code review, advanced JavaScript topics, CSS animations, pair programming 
+    - Friday - guest speaker Brook Riggio, code review, 201 review of topics by request, 301 preview, project week kickoff 
+- [Code Review](#codereview)
+- [Go over the assigned readings](#readings)
+- [Code demo](#code)
 
 **Learning Objectives**
 

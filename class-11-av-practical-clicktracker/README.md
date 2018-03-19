@@ -1,15 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Lecture 11
 
-- Announcements
-  - Quiz 6 due date.
-  - Project Week is getting closer!
-  - First round of project pitches
-  - Second round of project pitches & set project teams
-- Go over student surveys *[15 minutes]*
-- [Code Review](#codereview) *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[90 minutes]*
+- Go over student surveys
+- [Code Review](#codereview)
+- [Go over the assigned readings](#readings)
+- [Code demo](#code)
 
 **Learning Objectives**
 
