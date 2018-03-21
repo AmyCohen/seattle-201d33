@@ -44,4 +44,12 @@ We'll do code reviews to begin class most days
 
 This code demo is to help students be ready to complete the first assignment, and also to show off some functionality of the REPL and Chrome Developer Tools.
 
+### UI/UX Resources
+- https://www.impactbnd.com/blog/ux-design-trends-2018
+- https://theblog.adobe.com/10-ux-design-predictions-for-2018/
+- https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/
+- https://gsnedders.html5.org/outliner/
+- https://uxmastery.com/how-to-create-a-customer-journey-map/
+- http://www.projekt202.com
+
 [-top-](#top)
